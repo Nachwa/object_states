@@ -2,6 +2,10 @@
 
 This repo is related to the paper state-transformation for manipulation action recognition (under single-blind review)
 
+<p align="center">
+<img width="700" height="550" src="state_transition.jpg">
+</p>
+
 ## Prerequisites: 
 * Pytorch (v. 1.0.1)
 * python (v. 3.6)
