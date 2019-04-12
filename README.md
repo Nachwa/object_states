@@ -3,7 +3,7 @@
 This repo is related to the paper state-transformation for manipulation action recognition (under single-blind review)
 
 <p align="center">
-<img width="700" height="550" src="state_transition.jpg">
+<img width="605" height="320" src="state_transition.png">
 </p>
 
 ## Prerequisites: 
