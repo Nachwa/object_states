@@ -25,3 +25,5 @@ This repo is related to the paper state-transformation for manipulation action r
 python train_model.py --logname EXPNAME --batch_size 32 --nb_keyframes 5 --db_dir PATH_TO_DB_ROOT
 ```
 
+## Paper: 
+Accepted for presentation at workshop of EPIC@CVPR2019: https://arxiv.org/abs/1906.05147
